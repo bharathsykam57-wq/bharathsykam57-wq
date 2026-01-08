@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## GitHub Skills
+
+- [Introduction to GitHub](https://github.com/bharathsykam57-wq/skills-introduction-to-github)
+- [Communicate using Markdown](https://github.com/bharathsykam57-wq/skills-communicate-using-markdown)
+
 <!--
 **bharathsykam57-wq/bharathsykam57-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
